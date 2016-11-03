@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zteff1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="S:\AndroidStudioProjects\CameraActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_56af4fe8303949fc37de36f6820440005676152d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\AndroidStudioProjects\CameraActivity1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613cbf2547990742373f442846e8775140ac9b89">
+        <dex dex="S:\AndroidStudioProjects\CameraActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a63cc6c480257cf5f43dffc7a5b28d1e18bf24ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\AndroidStudioProjects\CameraActivity1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1067d9c91ccae5207af42368811ce601d15aca07">
+        <dex dex="S:\AndroidStudioProjects\CameraActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b625f358f23904cf4c37cd310eabf46c4d33b77f\classes.dex" />
+    </item>
+
+</items>
