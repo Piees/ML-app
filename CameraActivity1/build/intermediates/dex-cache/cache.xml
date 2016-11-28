@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\zteff1\Documents\GitHub\ML-app\CameraActivity1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="37af4438667e3f1a24d1ad2a95ccf21713dc44a9">
+        <dex dex="C:\Users\zteff1\Documents\GitHub\ML-app\CameraActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_53d1ac6166e11988abf692ea81893efea4fbe3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zteff1\Documents\GitHub\ML-app\CameraActivity1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa985f3b1178dbc3103d3e1289ce755058065858">
+        <dex dex="C:\Users\zteff1\Documents\GitHub\ML-app\CameraActivity1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46d8b4398bf615615c0eed55dc1b6a23be3984a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\zteff1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="true"
         optimize="true"

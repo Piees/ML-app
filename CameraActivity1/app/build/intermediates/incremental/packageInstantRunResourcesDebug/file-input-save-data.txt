@@ -1,24 +1,18 @@
 #Internal package file, do not edit.
-#Thu Nov 03 21:06:05 CET 2016
-2.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\camera.xml
-5.set=ANDROID_RESOURCE
-3.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
-2.set=ANDROID_RESOURCE
-4.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-count=7
-0.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\camera.xml
-5.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
+#Mon Nov 28 20:47:03 CET 2016
+1.base=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
 4.set=ANDROID_RESOURCE
-6.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-1.set=ANDROID_RESOURCE
-2.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_camera.xml
-6.set=ANDROID_RESOURCE
-0.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+2.base=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
 3.set=ANDROID_RESOURCE
-1.base=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=S\:\\AndroidStudioProjects\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_camera.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+0.file=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\zteff1\\Documents\\GitHub\\ML-app\\CameraActivity1\\app\\build\\intermediates\\res\\resources-debug.ap_
