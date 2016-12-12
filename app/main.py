@@ -1,6 +1,5 @@
 '''
 Basic camera example
-Default picture is saved as /sdcard/org.test.cameraexample/enter_file_name_here.jpg
 '''
 
 from os import getcwd
@@ -24,21 +23,11 @@ from send import sendpic
 class CameraDemo(FloatLayout):
     def __init__(self):
         super(CameraDemo, self).__init__()
-        #        self.cwd = getcwd() + "/"
-        #        self.cwd = App.get_running_app().user_data_dir + '/mlpic'
-        #        print self.cwd
-        #        self.ids.path_label.text = self.cwd
 
     def do_capture(self):
-        #        filepath = self.cwd + self.ids.filename_text.text
         filepath = App.get_running_app().user_data_dir + '/mlpic.png'
         self.ids.path_label.text = "Machine Learning"
         ext = splitext(filepath)[-1].lower()
-
-        #        if (exists(filepath)):
-        #            popup = MsgPopup(msg="Picture with this name already exists!")
-        #            popup.open()
-        #            return False
 
         try:
             camera.take_picture(
@@ -47,12 +36,10 @@ class CameraDemo(FloatLayout):
             popup = MsgPopup(
                 msg="This feature has not yet been implemented for this platform."
             )
-            #            popup = MsgPopup(msg=sendpic('camera.png'))
             popup.open()
 
     def camera_callback(self, filepath):
         if (exists(filepath)):
-            #            popup = MsgPopup(msg="Picture saved!")
             popup = MsgPopup(msg=sendpic(filepath))
             popup.open()
         else:
