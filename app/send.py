@@ -2,7 +2,10 @@ import requests
 import sys
 import config
 
-url = config.config
+if config.url == "url":
+    sys.exit("Set your url in config.py")
+
+url = config.url
 
 
 def sendpic(picpath):
